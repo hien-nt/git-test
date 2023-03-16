@@ -1,0 +1,27 @@
+    <div class="tag">
+      <span class="tag-g">#solar_breeze <a class="x" href="#">&times;</a></span>
+      <span class="tag-g">#red_hold <a class="x" href="#">&times;</a></span>
+      <span class="tag-g">#card_guard <a class="x" href="#">&times;</a></span>
+      <span class="tag-g">#lotstring <a class="x" href="#">&times;</a></span>
+      <span class="tag-g">#tough_joy_fax <a class="x" href="#">&times;</a></span>
+      <span class="tag-g">#cardify <a class="x" href="#">&times;</a></span>
+    </div>
+
+.popup .tag {
+  width: 100%;
+  color: #0ecbf6;
+}
+
+.popup .tag-g {
+  font-size: 12px;
+  border-radius: 30px;
+  background-color: white;
+  padding: 3px 5px 3px 3px;
+  margin-right: 5px;
+}
+
+.popup .x {
+  color: #d93f1d;
+  margin-left: 5px;
+  text-decoration: none;
+}
